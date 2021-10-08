@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi and welcome to my GitHub page! :sun_with_face:
+
+My name is Yair (pronunced as two syllables: ya-ir)
+
+I'm a data scientist with a deep passion for solving analytical business problems with data :bar_chart: :memo: 
+
+---
+
+
+
+
+
+
 
 <!--
 **yhaendler/yhaendler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
