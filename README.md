@@ -10,6 +10,8 @@ In addition to the academic hands-on experience, I hold a certificate for comple
 
 This repository contains data science projects I've been working on. Comments and suggestions are more than welcome!
 
+How to reach me: yairhen@gmail.com
+
 ---
 
 <img src=https://github.com/yhaendler/yhaendler/blob/main/coffee.png>
