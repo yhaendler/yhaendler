@@ -13,11 +13,13 @@
 
 I'm a **data scientist** with a deep passion for solving analytical business problems with data 📊📝  
 
-Currently I'm transitioning into the data science world in the industry, after 10 years of doing data science in academia as part of my research in experimental linguistics.
+After 10 years of doing data science work in academia, I'm transitioning into data science in the industry.
 
-In addition to the academic hands-on experience, I hold a certificate for completing an immersive data science program with [General Assembly](https://generalassemb.ly/education/data-science/new-york-city?&topic=&mkt_account_id=1056949875&mkt_campaign_id=1593581982&mkt_ad_group_id=62799259840&mkt_device_type=c&mkt_keyword=+data%20+science%20+general%20+assembly&mkt_matchtype=b&mkt_placement=&mkt_ad_id=550687248151&mkt_network=g&mkt_target_id=kwd-333766301885&mkt_feed_item_id=&utm_source=google&utm_medium=paid-search-bra&utm_campaign=TS:TX:BRA:NYC:BRTP:DAT:DataScience:GeneralAssembly&utm_content=PDP-PT&utm_term=+data%20+science%20+general%20+assembly&gclid=Cj0KCQjwnoqLBhD4ARIsAL5JedJBeYWCu5W7CbKaVbvgvuMhuR1Y1W_oVFMlQb_hpRE2uuHsupbuqzEaAvk8EALw_wcB), during which I acquired and extended my skills with **Machine Learning** tools that enable me to use data to solve real-world business problems.
+In my research career, I have worked mainly with eye movement data - acquiring, cleaning, processing and modeling. Eye movements for me have been an indicator of underlying cognitive processes that occur when someone engages in a certain task (for instance, when someone listens and is required to answer a question). 
 
-This repository contains data science projects that I've been working on - please see below :arrow_heading_down:
+In addition to the academic experience, I have been working on real-world business related data science problems, writing projects and posting them here. I hold a certificate for completing an immersive data science program with [General Assembly](https://generalassemb.ly/education/data-science/new-york-city?&topic=&mkt_account_id=1056949875&mkt_campaign_id=1593581982&mkt_ad_group_id=62799259840&mkt_device_type=c&mkt_keyword=+data%20+science%20+general%20+assembly&mkt_matchtype=b&mkt_placement=&mkt_ad_id=550687248151&mkt_network=g&mkt_target_id=kwd-333766301885&mkt_feed_item_id=&utm_source=google&utm_medium=paid-search-bra&utm_campaign=TS:TX:BRA:NYC:BRTP:DAT:DataScience:GeneralAssembly&utm_content=PDP-PT&utm_term=+data%20+science%20+general%20+assembly&gclid=Cj0KCQjwnoqLBhD4ARIsAL5JedJBeYWCu5W7CbKaVbvgvuMhuR1Y1W_oVFMlQb_hpRE2uuHsupbuqzEaAvk8EALw_wcB), during which I extended my skills with **Machine Learning** tools used to solve data science problems in the industry.
+
+Please have a look at the projects I have worked on :arrow_heading_down:
 
 Comments and suggestions are more than welcome!
 
