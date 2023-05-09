@@ -13,7 +13,11 @@
 
 I'm a **data scientist** with a deep passion for solving analytical business problems with data 📊📝  
 
-After 10 years of doing data science work in academia, I'm transitioning into data science in the industry.
+Since April 2022, I've been working at Visa, building innovative products based on transactions and payments data.
+
+An example project: a merchant wishes to launch a campaign to increase their circle of customers. I have built a recommender system that targets potential customers for the campaign, based on their past shopping behavior. 
+
+Before that, I spent 10 years doing data science work in academia.
 
 In my research career, I have worked mainly with eye movement data - acquiring, cleaning, processing and modeling. Eye movements for me have been an indicator of underlying cognitive processes that occur when someone engages in a certain task (for instance, when someone listens and is required to answer a question). 
 
